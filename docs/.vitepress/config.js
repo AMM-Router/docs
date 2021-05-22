@@ -1,4 +1,4 @@
 module.exports = {
-    title: 'Hello VitePress',
+    title: 'AMM - HPC Routing Project',
     description: 'Just playing around.'
   }
